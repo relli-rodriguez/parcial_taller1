@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "fechaInicio": "2024-01-01",
+    "fechaFin": "2024-12-31",
+    "montoPresupuestado": 500000.0,
+    "gastos": [
+      {
+        "id": 1,
+        "fecha": 1724198400000,
+        "monto": 50000.0,
+        "descripcion": "Insumos"
+      },
+      {
+        "id": 2,
+        "fecha": 1724284800000,
+        "monto": 100000.0,
+        "descripcion": "Servicios Generales"
+      },
+      {
+        "id": 3,
+        "fecha": 1724371200000,
+        "monto": 150000.0,
+        "descripcion": "Filmaker y Fotografia"
+      },
+      {
+        "id": 4,
+        "fecha": 1724558400000,
+        "monto": 20000.0,
+        "descripcion": "Gastos x"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "fechaInicio": "2024-05-02",
+    "fechaFin": "2024-09-15",
+    "montoPresupuestado": 250000.0,
+    "gastos": [
+      {
+        "id": 1,
+        "fecha": 1724457600000,
+        "monto": 1500000.0,
+        "descripcion": "Sitio Web"
+      },
+      {
+        "id": 2,
+        "fecha": 1724544000000,
+        "monto": 350000.0,
+        "descripcion": "Charlas"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fechaInicio": "string",
+    "fechaFin": "string",
+    "montoPresupuestado": 0.0,
+    "gastos": [{ "id": 0, "fecha": 0, "monto": 0.0, "descripcion": "string" }]
+  }
+]
